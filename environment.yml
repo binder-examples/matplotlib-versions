@@ -1,0 +1,6 @@
+name: matplotlib-versions-example
+channels:
+  - defaults
+dependencies:
+  - python==2.7.15
+  - matplotlib==2.0.0
